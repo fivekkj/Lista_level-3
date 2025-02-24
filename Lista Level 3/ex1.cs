@@ -15,7 +15,7 @@ class ex1
             Console.Write("Número {0}: ", i + 1);
             array[i] = int.Parse(Console.ReadLine());
         }
-
+        Console.Clear();
         Console.WriteLine("Os números armazenados no array são:");
 
         for (int i = 0; i < array.Length; i++)
