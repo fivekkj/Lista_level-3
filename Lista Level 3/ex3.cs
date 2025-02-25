@@ -15,7 +15,7 @@ class ex3
 
         for (int i = 0; i < array.Length; i++)
         {
-            array[i] = random.Next(-20, 11);
+            array[i] = random.Next(-20, 10);
             if (array[i] < 0)
             {
                 negativeCount++;

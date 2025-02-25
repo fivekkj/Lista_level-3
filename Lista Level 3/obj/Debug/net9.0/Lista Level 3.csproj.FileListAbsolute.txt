@@ -12,3 +12,4 @@ G:\Lista level 3\Lista Level 3\obj\Debug\net9.0\refint\Lista Level 3.dll
 G:\Lista level 3\Lista Level 3\obj\Debug\net9.0\Lista Level 3.pdb
 G:\Lista level 3\Lista Level 3\obj\Debug\net9.0\Lista Level 3.genruntimeconfig.cache
 G:\Lista level 3\Lista Level 3\obj\Debug\net9.0\ref\Lista Level 3.dll
+G:\Lista level 3\Lista Level 3\obj\Debug\net9.0\Lista Level 3.sourcelink.json
